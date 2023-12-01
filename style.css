@@ -1,0 +1,16 @@
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+}
+footer a {
+    color: #fff;
+}
+footer a:hover {
+    color: #f8f9fa;
+}
